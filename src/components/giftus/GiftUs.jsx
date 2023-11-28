@@ -1,12 +1,11 @@
-import React from "react";
-
 const GiftUs = () => {
   return (
     <div className=" bg-sky-950">
       <div>
         <form>
           <div>
-            <label htmlFor="Name"></label>
+            <label htmlFor="Name">Name</label>
+            <input type="text" />
           </div>
         </form>
       </div>
