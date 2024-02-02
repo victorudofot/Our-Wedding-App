@@ -8,8 +8,8 @@ import CountDown from "../countdown/CountDown";
 const Header = () => {
   return (
     <header className="" id="hero">
-      <div className="flex justify-center items-center bg-rosegold-0 max-w-full h-96 md:h-screen bg-cover bg-hashimage3  bg-center bg-no-repeat transition-all duration-500">
-        <div className="  flex justify-center items-center w-full bg-header1 h-[100%] bg-cover bg-no-repeat bg-center transition-all duration-500">
+      <div className="flex justify-center items-center max-w-full h-96 md:h-screen bg-cover bg-center bg-no-repeat transition-all duration-500">
+        <div className="  flex justify-center items-center w-full bg-header1 h-[100%] bg-cover bg-no-repeat bg-top transition-all duration-500">
           <motion.div
             className=" text-3xl md:text-5xl text-orange-300 opacity-50 font-playfair text-center -z-5"
             animate={{

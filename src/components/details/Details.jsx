@@ -58,31 +58,7 @@ const Details = () => {
       </div>
       <div className="p-5 gap-0  md:w-2/3 mr-auto ml-auto">
         <article className="border border-solid py-3 px-6 md:justify-self-end rounded-md shadow-md bg-white text-sky-950  my-5 md:my-0 w-full">
-          <div className="">
-            <FaPeopleRoof className=" mx-auto text-4xl my-4 animate-pulse" />
-            <h3 className=" font-bold font-pacifico text-xl flex justify-start items-center text-center">
-              <IoMdArrowDropright />
-              <span> Tradional Ceremmony</span>
-            </h3>
-            <p>8:00 am - 9:00 am</p>
-            {/* <p>
-              <a href="/" className="flex justify-start items-center gap-2">
-                <span>Join Our Livestream</span>{" "}
-                <span className="text-2xl">
-                  <BiLogoYoutube />
-                </span>
-              </a>
-            </p> */}
-            <p className=" pt-5">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime
-              sit molestiae, labore, a debitis nihil officiis doloribus rerum,
-              quo eum sunt exercitationem mollitia neque cumque animi laudantium
-              veniam. At numquam sapiente, cupiditate quibusdam sit delectus
-              autem officia dolore, deserunt ipsum repellat ipsa quaerat culpa
-              nam veritatis quidem praesentium ea sed et? Debitis aliquam
-              molestias numquam fugit, vitae cum veniam. Alias.
-            </p>
-          </div>
+          
           <div className="">
             <FaChurch className=" mx-auto text-4xl my-4 animate-pulse" />
             <h3 className=" font-bold font-pacifico text-xl flex justify-start items-center">

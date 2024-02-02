@@ -4,6 +4,7 @@ import OurStory from "./components/ourstory/OurStory";
 import Gallery from "./components/gallery/Gallery";
 import Details from "./components/details/Details";
 import Footer from "./components/footer/Footer";
+import GiftUs from "./components/giftus/GiftUs";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         <OurStory />
         <Gallery />
         <Details />
+        <GiftUs />
         <Footer />
       </main>
     </div>

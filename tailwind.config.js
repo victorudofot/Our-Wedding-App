@@ -22,14 +22,14 @@ export default {
         hashimage: "url('/images/hashimage.jpg')",
         hashimage2: "url('/images/hasimage2.jpg')",
         hashimage3:
-          "linear-gradient(to right bottom, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.3)),url('/images/darren-nunis-cxE7SXKnzv0-unsplash.jpg')",
+          "linear-gradient(to right bottom, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.3)),url('/images/weddingbanner.jpg')",
         hashimage5:
           "linear-gradient(to right bottom, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.3)),url('/images/Pink_flower_frame_background_with_watercolor.png')",
         detailsimg:
           "linear-gradient(to right bottom, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.3)),url('/public/images/pexels-nathan-cowley-1128782.jpg')",
         hashimage4: "url('/images/bee.jpg')",
         header1:
-          "linear-gradient(to right bottom, rgba(18, 16, 14, 0.5), rgba(43, 65, 98, 0.5)),url('/images/wedding1.jpg')",
+          "linear-gradient(to right bottom, rgba(18, 16, 14, 0.5), rgba(43, 65, 98, 0.5)),url('/images/weddingbanner.jpg')",
         church1:
           "linear-gradient(to right bottom, rgba(18, 16, 14, 0.7), rgba(43, 65, 98, 0.7)),url('/images/church1.jpg')",
       },

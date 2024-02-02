@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <div className=" z-50 shadow-beebox w-full sticky top-0 left-0">
-      <div className="md:flex items-center justify-between bg-sky-950 py-4 md:px-10 px-7">
+      <div className="md:flex items-center justify-between bg-rose-900 py-4 md:px-10 px-7">
         <a href="/">
           <div className="font-bold text-xl md:text-2xl cursor-pointer flex items-center  font-pacifico text-stone-300">
             <span>FVLoveBound</span>
@@ -34,7 +34,7 @@ const Navbar = () => {
           {isOpen ? <FaXmark /> : <FaBars />}
         </div>
         <ul
-          className={`pt-5 sm:pt-5 md:pt-0 md:flex md:items-center md:pb-0 pb-12 absolute md:static  bg-sky-950 md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${
+          className={`pt-5 sm:pt-5 md:pt-0 md:flex md:items-center md:pb-0 pb-12 absolute md:static  md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${
             isOpen ? "top-21 opacity-100" : "top-[-490px]"
           } md:opacity-100 opacity-100 `}
         >
