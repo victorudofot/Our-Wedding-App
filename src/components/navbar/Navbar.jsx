@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <div className=" z-50 shadow-beebox w-full sticky top-0 left-0">
-      <div className="md:flex items-center justify-between bg-rose-900 py-4 md:px-10 px-7">
+      <div className="md:flex items-center justify-between bg-sky-950 py-4 md:px-10 px-7">
         <a href="/">
           <div className="font-bold text-xl md:text-2xl cursor-pointer flex items-center  font-pacifico text-stone-300">
             <span>FVLoveBound</span>

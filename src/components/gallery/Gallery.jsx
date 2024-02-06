@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 const images = [
-  { name: "bee1", URL: "/images/bee2.jpg" },
-  { name: "bee2", URL: "/images/bee2.jpg" },
-  { name: "bee3", URL: "/images/bee2.jpg" },
-  { name: "bee4", URL: "/images/bee2.jpg" },
+  { name: "bee1", URL: "/public/images/fv1rr.png" },
+  { name: "bee2", URL: "/public/images/fv2.png" },
+  { name: "bee3", URL: "/public/images/fvrr.png" },
+  { name: "bee4", URL: "/public/images/fv4.png" },
 ];
 const Gallery = () => {
   return (

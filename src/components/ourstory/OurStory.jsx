@@ -6,7 +6,7 @@ const OurStory = () => {
         <div className="md:self-center">
           <img
             src="/images/bee.jpg"
-            className="rounded blur-[0.1rem] hover:blur-0"
+            className="rounded"
           />
         </div>
         <article className="prose lg:prose-xl dark:prose-invert p-5 md:p-9 text-slate-600">
@@ -14,23 +14,21 @@ const OurStory = () => {
             From the couple...
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            asperiores quas excepturi. Quod vel minus nemo magni quos similique
-            tempora, a voluptatibus dolores veritatis, ab omnis architecto id
-            accusantium blanditiis!
+            Dear Friends and Family, We are overwhelmed with gratitude for the
+            immense love and support you've shown us throughout our journey.
+            From the bottom of our hearts, we extend our sincerest thanks for
+            being a part of our special day and for embracing our love story
+            with such warmth and enthusiasm. We are deeply touched by the
+            thoughtful messages, kind gestures, and well-wishes that have poured
+            in from all corners. Your unwavering support has made our union even
+            more meaningful and joyous. Your
+            contribution has made our wedding planning journey smoother and more
+            memorable. As we embark on this new chapter together, we carry your
+            love and blessings with us. Our hearts are filled with gratitude for
+            each and every one of you who has made this day possible. With love
+            and appreciation.
           </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            asperiores quas excepturi. Quod vel minus nemo magni quos similique
-            tempora, a voluptatibus dolores veritatis, ab omnis architecto id
-            accusantium blanditiis!
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            asperiores quas excepturi. Quod vel minus nemo magni quos similique
-            tempora, a voluptatibus dolores veritatis, ab omnis architecto id
-            accusantium blanditiis!
-          </p>
+
           {/* <cite>Bride: Faithfulness Albert</cite> */}
         </article>
       </div>

@@ -20,9 +20,8 @@ const GiftUs = () => {
             <FaGift className=" mx-auto text-4xl my-4 animate-pulse" />
             <h3 className=" font-bold font-pacifico text-xl flex justify-start items-center">
               <IoMdArrowDropright />
-              <span>The Joining</span>
+              <span>Gift of Love: Cash Donation</span>
             </h3>
-            <p>10:00 am - 12:00 pm</p>
             {/* <p>
               <a href="/" className="flex justify-start items-center gap-2">
                 <span>Wedding Ceremony Livestream</span>
@@ -32,14 +31,26 @@ const GiftUs = () => {
               </a>
             </p> */}
             <p className=" pt-5">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime
+              Your presence is the greatest gift, and your well wishes mean the
+              world. For those who wish to contribute in a special way, a cash
+              donation option is available. Your generous support will help us
+              embark on this new journey together. Thank you for being part of
+              our love story.
             </p>
           </div>
-          <div className="w-[90%] h-1 mt-5 bg-sky-900 ml-auto mr-auto rounded-lg" />
           <div>
-            <h3 className=" text-center text-2xl font-playfair p-5 ">
+            <h3 className=" text-center text-2xl font-playfair ">
               Account Details
             </h3>
+            <div className="w-[90%] h-1 mt-5 bg-sky-900 ml-auto mr-auto rounded-lg pb-1 mb-2" />
+            <article>
+              <div>
+                <h3 className=" font-bold font-pacifico text-xl flex justify-start items-center">
+                  <IoMdArrowDropright />
+                  <span>UBA</span> <span className="ml-4">2264059053</span>
+                </h3>
+              </div>
+            </article>
           </div>
         </article>
       </div>
